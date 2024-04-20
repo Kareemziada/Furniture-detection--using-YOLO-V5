@@ -1,1 +1,0 @@
-# Furniture-detection--using-YOLO-V5
