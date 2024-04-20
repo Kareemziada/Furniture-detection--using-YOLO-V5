@@ -1,0 +1,26 @@
+names:
+- bath unit
+- bed
+- cabinet
+- couch
+- cupboard
+- curtains
+- dining table
+- gypsum board
+- shower cabinet
+- sideboard
+- tv unit
+- wall cladding
+- wall cover - 3d tiles
+- wall panel
+- wardrobe
+nc: 15
+roboflow:
+  license: CC BY 4.0
+  project: furniture-detection-2kump
+  url: https://universe.roboflow.com/nos-tashteeb-2qzbe/furniture-detection-2kump/dataset/2
+  version: 2
+  workspace: nos-tashteeb-2qzbe
+test: ../test/images
+train: furniture-detection-2/train/images
+val: furniture-detection-2/valid/images
